@@ -1,3 +1,7 @@
+.recipeTile {
+    cursor: pointer;
+}
+
 .recipeTile__img {
     height: 200px;
     width: 200px;
